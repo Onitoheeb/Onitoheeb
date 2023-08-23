@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Onitoheeb
-- 👀 I’m interested in python and JavaScript
-- 🌱 I’m currently learning python
+- 👀 I’m interested in frontend development.
+- 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
